@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Craft Beer"
+image: /_screenshots/maxresdefault.jpg
+image-sm: https://picsum.photos/500/300?image=1003
 ---
 # Hello jekyll
 `<html>`
